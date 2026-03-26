@@ -8,9 +8,9 @@ export default function Home() {
 
   const handleCTA = () => {
 
-    // 🔥 EVENTO DO PIXEL (NOVA LINHA)
+    // 🔥 EVENTO DO PIXEL (AGORA MAIS FORTE)
     if (typeof window !== "undefined" && (window as any).fbq) {
-      (window as any).fbq('track', 'Lead');
+      (window as any).fbq('track', 'InitiateCheckout');
     }
 
     // Redirecionamento para checkout Kiwify
