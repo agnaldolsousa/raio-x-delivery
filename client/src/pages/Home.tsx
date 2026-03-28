@@ -303,7 +303,7 @@ export default function Home() {
                 <p className="text-white font-bold text-lg leading-relaxed">
                   Você também recebe <span className="text-cyan-300">1 hora de consultoria estratégica individual comigo</span>.
                 </p>
-                <p className="text-white font-bold text-lg leading-relaxed">
+                <p className="text-white font-semibold text-[15px] md:text-lg leading-7 md:leading-relaxed">
                   Vou analisar seu delivery com você, ajustar sua planilha e te mostrar onde está o seu lucro — e onde você está perdendo dinheiro.
                 </p>
                 <p className="text-xs text-slate-400 italic pt-2">
