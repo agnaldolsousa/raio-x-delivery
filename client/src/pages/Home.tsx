@@ -43,7 +43,7 @@ export default function Home() {
               SISTEMA COMPLETO DE CONTROLE FINANCEIRO
             </div>
 
-            <h1 className="text-4xl md:text-7xl font-extrabold tracking-tight text-white leading-[1.1]">
+            <h1 className="text-3xl md:text-6xl font-extrabold tracking-tight text-white leading-tight">
               Você pode estar vendendo muito… <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">
                 e mesmo assim tendo prejuízo.
@@ -57,7 +57,7 @@ export default function Home() {
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-6">
               <Button
                 onClick={handleCTA}
-                className="w-full sm:w-auto bg-cyan-600 hover:bg-cyan-500 text-white text-lg font-bold px-10 py-8 rounded-2xl glow-blue transition-all duration-300 transform hover:scale-105"
+                className="w-full sm:w-auto bg-cyan-600 hover:bg-cyan-500 text-white text-base md:text-lg font-bold px-6 md:px-10 py-5 md:py-8 rounded-2xl glow-blue transition-all duration-300 transform hover:scale-105"
               >
                 QUERO VER MEU LUCRO AGORA
                 <ArrowRight className="ml-2 w-5 h-5" />
