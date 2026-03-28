@@ -228,23 +228,18 @@ export default function Home() {
       <section className="py-32 bg-slate-900/50">
         <div className="container">
           <div className="text-center mb-16 space-y-4">
-            <p className="text-cyan-400 font-semibold">
-              Se no final do mês você não sabe pra onde foi o dinheiro… isso aqui é pra você.
-            </p>
-            <h2 className="text-4xl font-bold text-white">Seu delivery está faturando… mas não está dando lucro</h2>
-            <p className="text-xl text-slate-400">
-              Você trabalha, vende, roda o dia inteiro — e no final do mês o dinheiro simplesmente não aparece
-            </p>
+            <h2 className="text-4xl font-bold text-white">Você não está comprando uma planilha</h2>
+            <p className="text-xl text-slate-400">Você está adquirindo um sistema completo de controle do seu delivery</p>
           </div>
 
           <div className="max-w-4xl mx-auto grid md:grid-cols-2 gap-8">
             <div className="space-y-4">
               {[
-                "Sistema completo em Excel (feito para gerar lucro)",
-                "Planilha automatizada de precificação (sem achismo)",
-                "Estrutura validada para qualquer tipo de delivery",
-                "Dashboard real de lucro (não só faturamento)",
-                "Controle simples dos custos que estão comendo seu dinheiro"
+                "Sistema completo em Excel (Premium)",
+                "Planilha automatizada de precificação",
+                "Estrutura pronta para qualquer nicho",
+                "Dashboard de lucro e faturamento",
+                "Gestão simplificada de custos fixos"
               ].map((item, i) => (
                 <div key={i} className="flex items-center gap-3 p-4 rounded-xl bg-[#05070a] border border-white/5">
                   <CheckCircle2 className="w-5 h-5 text-cyan-500" />
@@ -258,7 +253,7 @@ export default function Home() {
               <ul className="space-y-4 relative z-10">
                 <li className="flex items-center gap-3">
                   <div className="bg-white/20 p-1 rounded-full"><CheckCircle2 className="w-4 h-4" /></div>
-                  <span>1 hora de consultoria estratégica individual comigo (ajuste completo do seu delivery para sair do zero lucro)</span>
+                  <span>1 hora de consultoria estratégica individual comigo para ajustar sua planilha e aumentar seu lucro na prática</span>
                 </li>
                 <li className="flex items-center gap-3">
                   <div className="bg-white/20 p-1 rounded-full"><CheckCircle2 className="w-4 h-4" /></div>
@@ -306,7 +301,10 @@ export default function Home() {
                   <span className="text-sm font-bold text-cyan-400 uppercase tracking-widest">BONUS EXCLUSIVO</span>
                 </div>
                 <p className="text-white font-bold text-lg leading-relaxed">
-                  Você também recebe <span className="text-cyan-300">1 hora de consultoria estratégica individual comigo</span>, onde eu vou analisar seu delivery, ajustar sua planilha com você e te mostrar exatamente onde está o seu lucro — e principalmente, onde você está perdendo dinheiro sem perceber.
+                  Você também recebe <span className="text-cyan-300">1 hora de consultoria estratégica individual comigo</span>.
+                </p>
+                <p className="text-white font-bold text-lg leading-relaxed">
+                  Vou analisar seu delivery com você, ajustar sua planilha e te mostrar onde está o seu lucro — e onde você está perdendo dinheiro.
                 </p>
                 <p className="text-xs text-slate-400 italic pt-2">
                   Após a compra, você receberá instruções para agendamento.
