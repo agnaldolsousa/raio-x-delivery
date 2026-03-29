@@ -284,12 +284,12 @@ export default function Home() {
               <p className="text-cyan-400 font-bold tracking-widest uppercase text-sm">Pagamento único. Acesso imediato.</p>
             </div>
 
-            <Button
-              onClick={handleCTA}
-              className="w-auto mx-auto block px-6 bg-cyan-600 hover:bg-cyan-500 text-white text-lg font-black py-4 md:py-6 rounded-3xl glow-blue transition-all transform hover:scale-105"
-            >
-              QUERO MEU CONTROLE AGORA
-            </Button>
+            <button
+  onClick={handleCTA}
+  className="w-auto mx-auto block px-6 bg-cyan-600 hover:bg-cyan-500 text-white text-lg font-black py-4 md:py-6 rounded-3xl glow-blue transition-all"
+>
+  QUERO MEU CONTROLE AGORA
+</button>
 
             {/* Bloco de Consultoria Destacado */}
             <div className="mt-10 p-6 bg-gradient-to-r from-cyan-600/20 to-blue-600/20 border-2 border-cyan-500 rounded-2xl relative overflow-hidden group">
