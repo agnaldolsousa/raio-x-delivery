@@ -272,7 +272,7 @@ export default function Home() {
       <section className="py-32 relative overflow-hidden">
         <div className="absolute inset-0 bg-cyan-500/5" />
         <div className="container relative z-10">
-          <div className="max-w-2xl mx-auto bg-[#0f172a] border border-cyan-500/30 rounded-[40px] p-12 text-center shadow-[0_0_50px_rgba(0,210,255,0.1)]">
+          <div className="max-w-2xl mx-auto bg-[#0f172a] border border-cyan-500/30 rounded-[40px] px-6 py-8 md:p-12 text-center shadow-[0_0_50px_rgba(0,210,255,0.1)]">
             <h2 className="text-3xl font-bold text-white mb-2">Acesso completo ao</h2>
             <h3 className="text-4xl md:text-5xl font-black text-cyan-400 mb-8 tracking-tighter">SISTEMA RAIO-X DO DELIVERY</h3>
 
