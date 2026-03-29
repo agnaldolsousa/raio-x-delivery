@@ -57,7 +57,7 @@ export default function Home() {
             <div className="flex flex-col sm:flex-row items-center justify-center gap-3 pt-4 px-4">
               <Button
                 onClick={handleCTA}
-                className="w-full sm:w-auto bg-cyan-600 hover:bg-cyan-500 text-white text-base md:text-lg font-bold px-6 md:px-10 py-5 md:py-8 rounded-2xl glow-blue transition-all duration-300 transform hover:scale-105"
+                className="w-auto sm:w-auto bg-cyan-600 hover:bg-cyan-500 text-white text-base md:text-lg font-bold px-6 md:px-10 py-5 md:py-8 rounded-2xl glow-blue transition-all duration-300 transform hover:scale-105"
               >
                 QUERO VER MEU LUCRO AGORA
                 <ArrowRight className="ml-2 w-5 h-5" />
