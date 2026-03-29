@@ -287,7 +287,7 @@ export default function Home() {
 
             <Button
               onClick={handleCTA}
-              className="w-full bg-cyan-600 hover:bg-cyan-500 text-white text-2xl font-black py-10 rounded-3xl glow-blue transition-all transform hover:scale-105"
+              className="w-full bg-cyan-600 hover:bg-cyan-500 text-white text-lg md:text-2xl font-black py-5 md:py-10 rounded-3xl glow-blue transition-all transform hover:scale-105"
             >
               QUERO MEU CONTROLE AGORA
             </Button>
