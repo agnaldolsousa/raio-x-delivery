@@ -59,8 +59,7 @@ export default function Home() {
                 onClick={handleCTA}
                 className="w-auto sm:w-auto bg-cyan-600 hover:bg-cyan-500 text-white text-base md:text-lg font-bold px-6 md:px-10 py-5 md:py-8 rounded-2xl glow-blue transition-all duration-300 transform hover:scale-105"
               >
-                QUERO VER MEU LUCRO AGORA
-                <ArrowRight className="ml-2 w-5 h-5" />
+                QUERO VER MEU LUCRO AGORA      
               </Button>
               <a href="#como-funciona" className="text-slate-400 hover:text-white font-medium transition-colors flex items-center gap-2">
                 Ver como funciona
