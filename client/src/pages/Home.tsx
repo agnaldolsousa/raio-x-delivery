@@ -130,7 +130,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-red-500/10 blur-[100px] rounded-full" />
               <div className="relative rounded-2xl border border-red-500/20 overflow-hidden">
                 <img
-                  src="/assets/print_despesas.png"
+                  src="/assets/print_despesas.webp"
                   alt="Controle de Despesas"
                   className="w-full h-auto grayscale hover:grayscale-0 transition duration-500"
                   loading="lazy"
