@@ -211,7 +211,7 @@ export default function Home() {
             <div className="relative group order-2 md:order-1">
               <div className="absolute -inset-1 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-3xl blur opacity-30 group-hover:opacity-50 transition duration-1000"></div>
               <img
-                src="/assets/agnaldo.png"
+                src="/assets/agnaldo.webp"
                 alt="Agnaldo Sousa - Chef e Criador do Raio-X do Delivery"
                 className="relative rounded-3xl shadow-2xl w-full h-auto border border-white/10"
                 loading="lazy"
