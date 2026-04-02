@@ -185,7 +185,7 @@ export default function Home() {
             <div className="order-2 md:order-1 relative">
               <div className="absolute -inset-4 bg-cyan-500/20 blur-2xl rounded-full" />
               <img
-                src="/assets/print_faturamento.png"
+                src="/assets/print_faturamento.webp"
                 alt="Faturamento Mensal"
                 className="relative rounded-2xl border border-white/10 shadow-2xl"
                 loading="lazy"
