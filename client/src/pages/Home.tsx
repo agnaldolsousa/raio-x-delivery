@@ -193,7 +193,7 @@ export default function Home() {
                 alt="Faturamento Mensal"
                 width={300}
                 height={600}
-                className="relative rounded-2xl border border-white/10 shadow-2xl"
+                className="relative w-full h-auto rounded-2xl border border-white/10 shadow-2xl"
                 loading="lazy"
               />
             </div>
