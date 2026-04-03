@@ -132,7 +132,7 @@ export default function Home() {
               <div className="absolute inset-0 bg-red-500/10 blur-[100px] rounded-full" />
               <div className="relative rounded-2xl border border-red-500/20 overflow-hidden">
                 <img
-                  src="/assets/print_despesas.webp"
+                  <img src="/assets/print_despesas.webp" width="300" height="600" />
                   alt="Controle de Despesas"
                   className="w-full h-auto grayscale hover:grayscale-0 transition duration-500"
                   loading="lazy"
@@ -187,7 +187,7 @@ export default function Home() {
             <div className="order-2 md:order-1 relative">
               <div className="absolute -inset-4 bg-cyan-500/20 blur-2xl rounded-full" />
               <img
-                src="/assets/print_faturamento.webp"
+                src="/assets/print_faturamento.webp" width="300" height="600" />
                 alt="Faturamento Mensal"
                 className="relative rounded-2xl border border-white/10 shadow-2xl"
                 loading="lazy"
@@ -213,7 +213,7 @@ export default function Home() {
             <div className="relative group order-2 md:order-1">
               <div className="absolute -inset-1 bg-gradient-to-br from-cyan-500 to-blue-600 rounded-3xl blur opacity-30 group-hover:opacity-50 transition duration-1000"></div>
               <img
-                src="/assets/agnaldo.webp"
+                src="/assets/agnaldo.webp" width="300" height="300" />
                 alt="Agnaldo Sousa - Chef e Criador do Raio-X do Delivery"
                 className="relative rounded-3xl shadow-2xl w-full h-auto border border-white/10"
                 loading="lazy"
