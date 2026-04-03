@@ -74,7 +74,7 @@ export default function Home() {
 
             {/* Hero Image / Dashboard Preview */}
             <div className="mt-20 relative group">
-              <div className="absolute -inset-1 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-3xl blur opacity-25 group-hover:opacity-40 transition duration-1000"></div>
+             <div className="absolute -inset-1 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-3xl blur-md opacity-20 group-hover:opacity-30 transition duration-700"></div>
               <div className="relative bg-[#0f172a] rounded-2xl border border-white/10 overflow-hidden shadow-2xl">
                 <img
                   src="/assets/print_menu.webp"
