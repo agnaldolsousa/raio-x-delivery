@@ -77,12 +77,14 @@ export default function Home() {
               <div className="absolute -inset-1 bg-gradient-to-r from-cyan-500 to-blue-600 rounded-3xl blur opacity-25 group-hover:opacity-40 transition duration-1000"></div>
               <div className="relative bg-[#0f172a] rounded-2xl border border-white/10 overflow-hidden shadow-2xl">
                 <img
-                  src="/assets/print_menu.webp"
-                  alt="Dashboard Sistema Raio-X"
-                  className="w-full h-auto opacity-90 group-hover:opacity-100 transition duration-500"
-                  loading="eager"
-                  fetchPriority="high"
-                />
+  src="/assets/print_menu.webp"
+  alt="Dashboard Sistema Raio-X"
+  width="300"
+  height="600"
+  className="w-full h-auto opacity-90 group-hover:opacity-100 transition duration-500"
+  loading="eager"
+  fetchPriority="high"
+/>
               </div>
             </div>
           </div>
