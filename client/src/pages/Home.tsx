@@ -58,6 +58,7 @@ export default function Home() {
             <p className="text-lg md:text-xl text-slate-400 max-w-2xl mx-auto leading-relaxed">
               Você não precisa vender mais.
 Você precisa parar de perder dinheiro no que já vende.
+              Sem planilha complicada. Sem achismo.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-3 pt-4 px-4">
