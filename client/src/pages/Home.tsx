@@ -49,7 +49,7 @@ export default function Home() {
             </div>
 
             <h1 className="text-3xl md:text-6xl font-extrabold tracking-tight text-white leading-tight">
-              Você pode estar vendendo muito… <br />
+              Você pode estar vendendo bem... <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">
                 e mesmo assim tendo prejuízo.
               </span>
