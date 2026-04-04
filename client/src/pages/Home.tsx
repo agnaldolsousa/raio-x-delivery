@@ -154,7 +154,7 @@ e o iFood fica com o lucro? <span className="text-red-500">todo o seu lucro?</sp
       <section id="como-funciona" className="py-32 bg-gradient-to-b from-transparent to-cyan-500/5">
         <div className="container">
           <div className="text-center max-w-3xl mx-auto mb-20 space-y-4">
-            <h2 className="text-4xl md:text-5xl font-bold text-white">Agora imagine ter tudo isso em um único sistema</h2>
+            <h2 className="text-4xl md:text-5xl font-bold text-white">Imagine saber exatamente quanto você ganha em cada pedido.</h2>
             <p className="text-xl text-slate-400">
               O Sistema Raio-X do Delivery mostra exatamente onde está seu lucro — e onde você está perdendo dinheiro.
             </p>
