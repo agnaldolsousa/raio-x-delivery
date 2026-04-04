@@ -99,7 +99,7 @@ Você precisa parar de perder dinheiro no que já vende.
           <div className="max-w-3xl mx-auto space-y-6">
             <h2 className="text-3xl md:text-4xl font-bold text-white">
               "Se você não sabe quanto lucra em cada pedido…
-você está perdendo dinheiro sem perceber. <span className="text-cyan-400">você está no escuro.</span>"
+você está perdendo dinheiro sem perceber."
             </h2>
             <p className="text-xl text-slate-400">
               A maioria dos donos de delivery precifica errado, ignora custos e perde dinheiro sem perceber.
