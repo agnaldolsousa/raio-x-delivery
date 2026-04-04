@@ -114,7 +114,8 @@ você está perdendo dinheiro sem perceber."
           <div className="grid md:grid-cols-2 gap-16 items-center">
             <div className="space-y-8">
               <h2 className="text-4xl font-bold text-white">
-                O iFood e a maquininha de cartão ficam com <span className="text-red-500">todo o seu lucro?</span>
+                Você trabalha…
+e o iFood fica com o lucro? <span className="text-red-500">todo o seu lucro?</span>
               </h2>
               <div className="space-y-4">
                 {[
