@@ -119,11 +119,11 @@ e o iFood fica com o lucro? <span className="text-red-500">todo o seu lucro?</sp
               </h2>
               <div className="space-y-4">
                 {[
-                  "Não sabe o lucro real de cada prato",
-                  "Preço baseado no 'achismo' ou no concorrente",
-                  "Não controla custos fixos e variáveis",
-                  "Perde dinheiro com taxas abusivas sem perceber",
-                  "Não tem ficha técnica organizada"
+                  "Você não sabe quanto lucra por prato",
+                  "Você define preço no achismo",
+                  "Você trabalha muito e ganha pouco",
+                  "Você perde dinheiro e nem percebe",
+                  "Você não tem controle do seu delivery"
                 ].map((item, i) => (
                   <div key={i} className="flex items-center gap-3 p-4 rounded-xl bg-white/5 border border-white/10">
                     <AlertTriangle className="w-5 h-5 text-red-500 shrink-0" />
