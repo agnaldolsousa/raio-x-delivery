@@ -102,7 +102,7 @@ Você precisa parar de perder dinheiro no que já vende.
 você está perdendo dinheiro sem perceber."
             </h2>
             <p className="text-xl text-slate-400">
-              A maioria dos donos de delivery precifica errado, ignora custos e perde dinheiro sem perceber.
+              A maioria dos deliveries perde dinheiro sem saber.
             </p>
           </div>
         </div>
