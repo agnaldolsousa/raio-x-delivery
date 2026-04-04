@@ -49,14 +49,14 @@ export default function Home() {
             </div>
 
             <h1 className="text-3xl md:text-6xl font-extrabold tracking-tight text-white leading-tight">
-              Você pode estar vendendo muito… <br />
+              Seu delivery fatura… <br />
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-cyan-400 to-blue-500">
-                e mesmo assim tendo prejuízo.
+                e mesmo assim o dinheiro some no fim do mês.
               </span>
             </h1>
 
             <p className="text-lg md:text-xl text-slate-400 max-w-2xl mx-auto leading-relaxed">
-              O problema não é falta de venda. É falta de controle. Descubra exatamente quanto você ganha em cada pedido com um sistema que calcula tudo automaticamente.
+             Você não precisa vender mais. Precisa saber exatamente onde está perdendo dinheiro — e quanto realmente sobra no seu bolso.
             </p>
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-3 pt-4 px-4">
