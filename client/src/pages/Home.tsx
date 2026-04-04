@@ -61,11 +61,11 @@ export default function Home() {
 
             <div className="flex flex-col sm:flex-row items-center justify-center gap-3 pt-4 px-4">
               <Button
-                onClick={handleCTA}
-                className="w-full sm:w-auto bg-cyan-700 hover:bg-cyan-600 text-white text-sm md:text-lg font-bold px-6 md:px-10 py-5 md:py-8 rounded-2xl glow-blue transition-all duration-300 transform hover:scale-105"
-              >
-                “QUERO DESCOBRIR ONDE ESTOU PERDENDO DINHEIRO”      
-              </Button>
+  onClick={handleCTA}
+  className="w-full max-w-[320px] mx-auto bg-cyan-700 hover:bg-cyan-600 text-white text-sm md:text-lg font-bold px-4 py-4 rounded-2xl glow-blue transition-all duration-300 whitespace-normal text-center leading-tight"
+>
+  QUERO DESCOBRIR ONDE ESTOU PERDENDO DINHEIRO
+</Button>
               <a href="#como-funciona" className="text-slate-400 hover:text-white font-medium transition-colors flex items-center gap-2">
                 Ver como funciona
                 <MousePointer2 className="w-4 h-4" />
