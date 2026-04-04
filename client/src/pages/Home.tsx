@@ -67,7 +67,7 @@ export default function Home() {
                 QUERO VER MEU LUCRO AGORA      
               </Button>
               <a href="#como-funciona" className="text-slate-400 hover:text-white font-medium transition-colors flex items-center gap-2">
-                Ver como funciona
+                Veja como funciona
                 <MousePointer2 className="w-4 h-4" />
               </a>
             </div>
